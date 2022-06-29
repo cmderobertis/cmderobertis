@@ -1,4 +1,10 @@
-### Hi there 👋
+### ✨Welcome✨
+
+- 💼 **I'm seeking employment!**
+- 🌱 I'm learning Python and Web Development
+- ⬛🟩🟩⬛🟨 I'm working on a clone of Wordle that gets exponentially harder
+- 💬 Reach out to me! Links in bio
+
 
 <!--
 **cmderobertis/cmderobertis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
