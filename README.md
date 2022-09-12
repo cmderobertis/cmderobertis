@@ -1,23 +1,13 @@
 ![GitHub Cover](github_cover.png)
 
-## ✨Web Developer✨Sofware Engineer✨Problem Solver✨
+## Software Engineer✨Problem Solver✨Hype Man
 
 - 💼 **I'm seeking employment!**
 - 💻 [Portfolio](https://cmderobertis.net)
 - 💬 Reach out to me! [LinkedIn](https://linkedin.com/in/cmderobertis) [Twitter](https://twitter.com/cmderobertis)
 
+## Full-Stack CRUD Applications
 
-<!--
-**cmderobertis/cmderobertis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Team Manager (MERN)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Demo](team-demo.gif)
