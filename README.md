@@ -8,6 +8,6 @@
 
 ## Full-Stack CRUD Applications
 
-### Team Manager (MERN)
+### [Team Manager (MERN)](https://github.com/cmderobertis/team-manager-mern)
 
 ![Demo](team-demo.gif)
