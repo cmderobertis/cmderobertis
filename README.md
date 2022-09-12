@@ -1,9 +1,10 @@
-### ✨Welcome✨
+![GitHub Cover](github_cover.png)
+
+## ✨Web Developer✨Sofware Engineer✨Problem Solver✨
 
 - 💼 **I'm seeking employment!**
-- 🌱 I'm learning Python and Web Development
-- ⬛🟩🟩⬛🟨 I'm working on a clone of Wordle that gets exponentially harder
-- 💬 Reach out to me! Links in bio
+- 💻 [Portfolio](https://cmderobertis.net)
+- 💬 Reach out to me! [LinkedIn](https://linkedin.com/in/cmderobertis) [Twitter](https://twitter.com/cmderobertis)
 
 
 <!--
