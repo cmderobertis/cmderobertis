@@ -6,8 +6,12 @@
 - 💻 [Portfolio](https://cmderobertis.net)
 - 💬 Reach out to me! [LinkedIn](https://linkedin.com/in/cmderobertis) [Twitter](https://twitter.com/cmderobertis)
 
-## Full-Stack CRUD Applications
+## My Favorite Projects
+
+### [98ish | Desktop Environment Simulation](https://github.com/Simul8-OS/98ish)
+
+![98ish Demo](demo-filesystem.gif)
 
 ### [Team Manager (MERN)](https://github.com/cmderobertis/team-manager-mern)
 
-![Demo](team-demo.gif)
+![Team Manager Demo](team-demo.gif)
