@@ -2,7 +2,7 @@
 
 ## Software Engineer✨Problem Solver✨Hype Man
 
-- 💼 **I'm seeking employment!**
+- 💼 **App Developer III - Technical Supervisor at [Appward](https://www.appward.com)**
 - 💻 [Portfolio](https://cmderobertis.net)
 - 💬 Reach out to me! [LinkedIn](https://linkedin.com/in/cmderobertis) [Twitter](https://twitter.com/cmderobertis)
 
